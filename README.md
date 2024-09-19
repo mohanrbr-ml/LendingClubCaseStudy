@@ -10,7 +10,6 @@ Lending Club Case Study: When a consumer finance loan company receives a loan ap
 
 
 ## General Information
-- Provide general information about your project here.
 In this project we analyze past data of loan defaults from a consumer finance company to identify patterns which indicate if a person is likely to default and provide recommendations. Based on the results, the company may take actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc.
 
 The dataset is a csv formatted file containing thousands of records in which each record contains information about a loan applicant. For each applicant details about the loan such as loan amount, interest rate, tenure, status (paid/deliquent) etc are present in the file.
@@ -35,7 +34,7 @@ This project was inspired by Upgrad and IIIT-B as part of the PG Diploman in AI 
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@mohanrbr-ml] - feel free to contact me!
 
 
 <!-- Optional -->
